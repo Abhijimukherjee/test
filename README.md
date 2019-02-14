@@ -1,4 +1,4 @@
-# example-tomcat-new-testcase
+# example-tomcat-new-testcase1
 
 This is an awesome example java build and deploy of the resulting
 war file to a tomcat 7 server.
